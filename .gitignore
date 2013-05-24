@@ -1,0 +1,6 @@
+*.swp
+*.dump
+edoc-info
+.DS_Store
+rel/coffer
+deps
