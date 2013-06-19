@@ -1,4 +1,4 @@
-# Contributing to Docker
+# Contributing to Coffer
 
 Want to hack on Coffer? Awesome! Here are instructions to get you
 started. They are probably not perfect, please let us know if anything
